@@ -1,5 +1,5 @@
 # awesome-programming-tutorials
-My programming tutorials include Python, PyTorch and so on.
+My programming tutorials include Python, PyTorch, Machine Learning and so on.
 
 ## Python
 
@@ -10,4 +10,9 @@ My programming tutorials include Python, PyTorch and so on.
 
 - [PyTorch 学习教程与高效技巧](pytorch/effective-pytorch.ipynb)
 - [PyTorch Geometric 安装与入门](pytorch/PyG-tutorials.ipynb)
+
+## Machine Learning
+
+- [Pandas Profiling 数据可视化预分析](machine-learning/pandas-profiling.ipynb)
+- [类不平衡数据中的过采样方法](machine-learning/data-imbalance.ipynb)
 
