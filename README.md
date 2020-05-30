@@ -14,5 +14,5 @@ My programming tutorials include Python, PyTorch, Machine Learning and so on.
 ## Machine Learning
 
 - [Pandas Profiling 数据可视化预分析](machine-learning/pandas-profiling.ipynb)
-- [类不平衡数据中的过采样方法](machine-learning/data-imbalance.ipynb)
+- [类不平衡数据介绍与过采样方法对比](machine-learning/data-imbalance.ipynb)
 
