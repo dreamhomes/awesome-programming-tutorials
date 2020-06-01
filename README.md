@@ -3,8 +3,9 @@ My programming tutorials include Python, PyTorch, Machine Learning and so on.
 
 ## Python
 
-- [优雅地处理Python中的异常](python/python-exception.ipynb)
-- [Python 代码加速](python/python-accelerate.ipynb)
+- [Python 异常处理](python/python-exception.ipynb)
+- [Python 代码优化（一）](python/python-accelerate.ipynb)
+- [Python 代码优化（二）](python/python-accelerate1.ipynb)
 
 ## PyTorch
 
