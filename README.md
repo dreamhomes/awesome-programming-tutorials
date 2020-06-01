@@ -9,7 +9,8 @@ My programming tutorials include Python, PyTorch, Machine Learning and so on.
 
 ## PyTorch
 
-- [PyTorch 学习教程与高效技巧](pytorch/effective-pytorch.ipynb)
+- [PyTorch 学习教程与高效技巧](pytorch/pytorch-basic-learning.ipynb)
+- [PyTorch 编程常用手册](pytorch/pytorch-advanced-learning.ipynb)
 - [PyTorch Geometric 安装与入门](pytorch/PyG-tutorials.ipynb)
 
 ## Machine Learning
