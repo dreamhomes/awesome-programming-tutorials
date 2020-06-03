@@ -21,5 +21,6 @@ My programming tutorials include Python, PyTorch, Machine Learning, Deep learnin
 
 ## PyTorch 模型系列
 
-- [PyTorch Autoencoder](pytorch/pytorch-autoencoder.ipynb)
+- [PyTorch Autoencoder 自编码器](pytorch/pytorch-autoencoder.ipynb)
+- [PyTorch Variational-Autoencoder 变分自编码器](pytorch/pytorch-variational-autoencoder.ipynb)
 
