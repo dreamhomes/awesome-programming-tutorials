@@ -23,5 +23,5 @@ My programming tutorials include Python, PyTorch, Machine Learning, Deep learnin
 
 - [PyTorch Autoencoder 自编码器](pytorch/pytorch-autoencoder.ipynb)
 - [PyTorch Variational Autoencoder 变分自编码器](pytorch/pytorch-variational-autoencoder.ipynb)
-- [PyTorch Graph Variational Autoencoder 图变分自编码器](pytorch/pytorch-variational-autoencoder.ipynb)
+- [PyTorch Variational Graph Autoencoder 变分图自编码器](pytorch/pytorch-vgae.ipynb)
 
