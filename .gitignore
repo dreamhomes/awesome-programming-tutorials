@@ -1,6 +1,8 @@
 # Directory
+data/
 pytorch/data/
 pytorch/output
+.DS_Store
 # output/
 # docs/
 
