@@ -11,6 +11,8 @@ My programming tutorials include Python, PyTorch, Machine Learning, Deep learnin
 
 - [Pandas Profiling 数据可视化分析](machine-learning/pandas-profiling.ipynb)
 - [Scikit-learn 类不平衡数据介绍与过采样方法对比](machine-learning/data-imbalance.ipynb)
+- [Pytorch 自编码器异常检测](machine-learning/autoencoder-anomaly-detection.ipynb)
+- [Pytorch 差分自编码器异常检测](machine-learning/vae-anomaly-detection.ipynb)
 
 ## PyTorch 基础系列
 
@@ -22,6 +24,8 @@ My programming tutorials include Python, PyTorch, Machine Learning, Deep learnin
 ## PyTorch 模型系列
 
 - [PyTorch Autoencoder 自编码器](pytorch/pytorch-autoencoder.ipynb)
+- [PyTorch Autoencoder 异常检测](machine-learning/autoencoder-anomaly-detection.ipynb)
 - [PyTorch Variational Autoencoder 变分自编码器](pytorch/pytorch-variational-autoencoder.ipynb)
+- [PyTorch VAE 异常检测](machine-learning/vae-anomaly-detection.ipynb)
 - [PyTorch Variational Graph Autoencoder 变分图自编码器](pytorch/pytorch-vgae.ipynb)
 
